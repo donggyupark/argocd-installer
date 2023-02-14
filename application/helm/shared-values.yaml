@@ -3,9 +3,9 @@ spec:
     # description
     # https연결만 사용 가능합니다.
     # gitlab의 경우, url 마지막에 '.git' suffix를 붙여주셔야 합니다
-    repoURL: https://github.com/tmax-cloud/argocd-installer
+    repoURL: https://github.com/donggyupark/argocd-installer
     # description: target branch or release name
-    targetRevision: HEAD
+    targetRevision: test
     
 global:
   # 현재 지원하는 timeZone value
